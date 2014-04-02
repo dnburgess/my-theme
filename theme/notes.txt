@@ -1,0 +1,9 @@
+Please rename this file and folder based on the client name.
+
+This template is documented and organized to allow for quick deployment. 
+
+It has basic schema.org tags in it for Author, CreativeWork, Time/Date. 
+
+All stylesheet modifications should be handled in the assets/css/template.css file. 
+
+There is one menu and one widget position, but more can be added in the functions.php file.
